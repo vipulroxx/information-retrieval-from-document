@@ -1,0 +1,1004 @@
+
+TOKENIZATION
+------------------------------------------------------------------------------------------------------------------------------------------------------
+basically                 genetic                   engineering               also                      known                     
+as                        genetic                   modification              or                        genetic                   
+manipulation              which                     represents                the                       direct                    
+manipulation              of                        an                        organism s                genes                     
+employing                 biotechnology             this                      is                        a                         
+set                       of                        technologies              used                      to                        
+change                    the                       genetic                   makeup                    of                        
+cells                     incorporating             the                       transfer                  of                        
+genes                     within                    and                       across                    species                   
+boundaries                to                        generate                  enhanced                  or                        
+novel                     organisms                 new                       dna                       is                        
+attained                  by                        either                    isolating                 and                       
+copying                   the                       genetic                   material                  of                        
+interest                  using                     recombinant               dna                       strategies                
+or                        by                        artificially              synthesising              the                       
+dna                       a                         construct                 is                        generally                 
+created                   and                       employed                  to                        insert                    
+this                      dna                       into                      the                       host                      
+organism                  the                       first                     recombinant               dna                       
+molecule                  was                       made                      by                        paul                      
+berg                      in                        by                        combining                 dna                       
+from                      the                       monkey                    virus                     sv                        
+with                      the                       lambda                    virus                     as                        
+well                      as                        inserting                 genes                     the                       
+phenomenon                can                       be                        used                      to                        
+remove                    or                        "knock                    out"                      genes                     
+the                       novel                     dna                       can                       be                        
+inserted                  randomly                  or                        targeted                  to                        
+a                         specific                  part                      of                        the                       
+genome                    genetic                   engineering               is                        a                         
+phenomenon                that                      alters                    the                       genetic                   
+structure                 of                        an                        organism                  by                        
+either                    removing                  or                        introducing               dna                       
+unlike                    traditional               animal                    and                       plant                     
+breeding                  that                      involves                  doing                     multiple                  
+crosses                   and                       then                      selecting                 for                       
+the                       organism                  with                      the                       desired                   
+phenotype                 genetic                   engineering               takes                     the                       
+gene                      directly                  from                      one                       organism                  
+and                       delivers                  it                        to                        the                       
+other                     this                      is                        much                      faster                    
+can                       be                        used                      to                        insert                    
+any                       genes                     from                      any                       organism                  
+even                      ones                      from                      different                 domains                   
+and                       prevents                  other                     undesirable               genes                     
+from                      also                      being                     appended                  genetic                   
+engineering               could                     potentially               fix                       severe                    
+genetic                   disorders                 in                        humans                    by                        
+replacing                 the                       defective                 gene                      with                      
+a                         functioning               one                       it                        is                        
+an                        important                 tool                      in                        research                  
+that                      allows                    the                       function                  of                        
+specific                  genes                     to                        be                        studied                   
+drugs                     vaccines                  and                       other                     products                  
+have                      been                      harvested                 from                      organisms                 
+engineered                to                        produce                   them                      crops                     
+have                      been                      developed                 that                      aid                       
+food                      security                  by                        increasing                yield                     
+nutritional               value                     and                       tolerance                 to                        
+environmental             stresses                  the                       dna                       can                       
+be                        further                   introduced                directly                  into                      
+the                       host                      organism                  or                        into                      
+a                         cell                      that                      is                        then                      
+fused                     or                        hybridised                with                      the                       
+host                      this                      relies                    on                        recombinant               
+nucleic                   acid                      techniques                to                        form                      
+new                       combinations              of                        heritable                 genetic                   
+material                  followed                  by                        the                       incorporation             
+of                        that                      material                  either                    indirectly                
+through                   a                         vector                    system                    or                        
+directly                  through                   micro injection           macro injection           or                        
+micro encapsulation       genetic                   engineering               does                      not                       
+normally                  include                   traditional               breeding                  in                        
+vitro                     fertilisation             induction                 of                        polyploidy                
+mutagenesis               and                       cell                      fusion                    techniques                
+that                      do                        not                       use                       recombinant               
+nucleic                   acids                     or                        a                         genetically               
+modified                  organism                  in                        the                       process                   
+however                   some                      broad                     definitions               of                        
+genetic                   engineering               include                   selective                 breeding                  
+cloning                   and                       stem                      cell                      research                  
+although                  not                       considered                genetic                   engineering               
+are                       closely                   related                   and                       genetic                   
+engineering               can                       be                        used                      within                    
+them                      synthetic                 biology                   is                        an                        
+emerging                  discipline                that                      takes                     genetic                   
+engineering               a                         step                      further                   by                        
+introducing               artificially              synthesised               material                  into                      
+an                        organism                  such                      synthetic                 dna                       
+as                        artificially              expanded                  genetic                   information               
+system                    and                       hachimoji                 dna                       is                        
+made                      in                        this                      new                       field                     
+thterms                   e                         next                      step                      is                        
+to                        isolate                   the                       candidate                 gene                      
+the                       cell                      containing                the                       gene                      
+is                        opened                    and                       the                       dna                       
+is                        purified                  the                       gene                      is                        
+separated                 by                        using                     restriction               enzymes                   
+to                        cut                       the                       dna                       into                      
+fragments                 or                        polymerase                chain                     reaction                  
+pcr                       to                        amplify                   up                        the                       
+gene                      segment                   these                     segments                  can                       
+then                      be                        extracted                 through                   gel                       
+electrophoresis           if                        the                       chosen                    gene                      
+or                        the                       donor                     organism                  genome                    
+has                       been                      well                      studied                   it                        
+may                       already                   be                        accessible                from                      
+a                         genetic                   library                   if                        the                       
+dna                       sequence                  is                        known                     but                       
+no                        copies                    of                        the                       gene                      
+are                       available                 it                        can                       also                      
+be                        artificially              synthesised               once                      isolated                  
+the                       gene                      is                        ligated                   into                      
+a                         plasmid                   that                      is                        then                      
+inserted                  into                      a                         bacterium                 the                       
+plasmid                   is                        replicated                when                      the                       
+bacteria                  divide                    ensuring                  unlimited                 copies                    
+of                        the                       gene                      are                       available                 
+applications              the                       genetic                   engineering               has                       
+various                   applications              in                        medicine                  research                  
+industry                  and                       agriculture               and                       can                       
+be                        used                      on                        a                         wide                      
+range                     of                        plants                    animals                   and                       
+microorganisms            bacteria                  the                       first                     organisms                 
+to                        be                        genetically               modified                  can                       
+have                      plasmid                   dna                       inserted                  containing                
+new                       genes                     that                      code                      for                       
+medicines                 or                        enzymes                   that                      process                   
+food                      and                       other                     substrates                plants                    
+have                      been                      modified                  for                       insect                    
+protection                herbicide                 resistance                virus                     resistance                
+enhanced                  nutrition                 tolerance                 to                        environmental             
+pressures                 and                       the                       production                of                        
+edible                    vaccines                  most                      commercialised            gmos                      
+are                       insect                    resistant                 or                        herbicide                 
+tolerant                  crop                      plants                    genetically               modified                  
+animals                   have                      been                      used                      for                       
+research                  model                     animals                   and                       the                       
+production                of                        agricultural              or                        pharmaceutical            
+products                  the                       genetically               modified                  animals                   
+incorporate               animals                   with                      genes                     knocked                   
+out                       increased                 susceptibility            to                        disease                   
+hormones                  for                       extra                     growth                    and                       
+the                       ability                   to                        express                   proteins                  
+in                        their                     milk                      
+
+STOP WORD REMOVAL
+------------------------------------------------------------------------------------------------------------------------------------------------------
+basically                 genetic                   engineering               also                      known                     
+genetic                   modification              genetic                   manipulation              represents                
+direct                    manipulation              organism s                genes                     employing                 
+biotechnology             set                       technologies              used                      change                    
+genetic                   makeup                    cells                     incorporating             transfer                  
+genes                     within                    across                    species                   boundaries                
+generate                  enhanced                  novel                     organisms                 new                       
+dna                       attained                  either                    isolating                 copying                   
+genetic                   material                  interest                  using                     recombinant               
+dna                       strategies                artificially              synthesising              dna                       
+construct                 generally                 created                   employed                  insert                    
+dna                       host                      organism                  first                     recombinant               
+dna                       molecule                  made                      paul                      berg                      
+combining                 dna                       monkey                    virus                     sv                        
+lambda                    virus                     well                      inserting                 genes                     
+phenomenon                used                      remove                    "knock                    out"                      
+genes                     novel                     dna                       inserted                  randomly                  
+targeted                  specific                  part                      genome                    genetic                   
+engineering               phenomenon                alters                    genetic                   structure                 
+organism                  either                    removing                  introducing               dna                       
+unlike                    traditional               animal                    plant                     breeding                  
+involves                  multiple                  crosses                   selecting                 organism                  
+desired                   phenotype                 genetic                   engineering               takes                     
+gene                      directly                  one                       organism                  delivers                  
+much                      faster                    used                      insert                    genes                     
+organism                  even                      ones                      different                 domains                   
+prevents                  undesirable               genes                     also                      appended                  
+genetic                   engineering               could                     potentially               fix                       
+severe                    genetic                   disorders                 humans                    replacing                 
+defective                 gene                      functioning               one                       important                 
+tool                      research                  allows                    function                  specific                  
+genes                     studied                   drugs                     vaccines                  products                  
+harvested                 organisms                 engineered                produce                   crops                     
+developed                 aid                       food                      security                  increasing                
+yield                     nutritional               value                     tolerance                 environmental             
+stresses                  dna                       introduced                directly                  host                      
+organism                  cell                      fused                     hybridised                host                      
+relies                    recombinant               nucleic                   acid                      techniques                
+form                      new                       combinations              heritable                 genetic                   
+material                  followed                  incorporation             material                  either                    
+indirectly                vector                    system                    directly                  micro injection           
+macro injection           micro encapsulation       genetic                   engineering               normally                  
+include                   traditional               breeding                  vitro                     fertilisation             
+induction                 polyploidy                mutagenesis               cell                      fusion                    
+techniques                do                        use                       recombinant               nucleic                   
+acids                     genetically               modified                  organism                  process                   
+however                   broad                     definitions               genetic                   engineering               
+include                   selective                 breeding                  cloning                   stem                      
+cell                      research                  although                  considered                genetic                   
+engineering               closely                   related                   genetic                   engineering               
+used                      within                    synthetic                 biology                   emerging                  
+discipline                takes                     genetic                   engineering               step                      
+introducing               artificially              synthesised               material                  organism                  
+synthetic                 dna                       artificially              expanded                  genetic                   
+information               system                    hachimoji                 dna                       made                      
+new                       field                     thterms                   e                         next                      
+step                      isolate                   candidate                 gene                      cell                      
+containing                gene                      opened                    dna                       purified                  
+gene                      separated                 using                     restriction               enzymes                   
+cut                       dna                       fragments                 polymerase                chain                     
+reaction                  pcr                       amplify                   gene                      segment                   
+segments                  extracted                 gel                       electrophoresis           chosen                    
+gene                      donor                     organism                  genome                    well                      
+studied                   may                       already                   accessible                genetic                   
+library                   dna                       sequence                  known                     copies                    
+gene                      available                 also                      artificially              synthesised               
+isolated                  gene                      ligated                   plasmid                   inserted                  
+bacterium                 plasmid                   replicated                bacteria                  divide                    
+ensuring                  unlimited                 copies                    gene                      available                 
+applications              genetic                   engineering               various                   applications              
+medicine                  research                  industry                  agriculture               used                      
+wide                      range                     plants                    animals                   microorganisms            
+bacteria                  first                     organisms                 genetically               modified                  
+plasmid                   dna                       inserted                  containing                new                       
+genes                     code                      medicines                 enzymes                   process                   
+food                      substrates                plants                    modified                  insect                    
+protection                herbicide                 resistance                virus                     resistance                
+enhanced                  nutrition                 tolerance                 environmental             pressures                 
+production                edible                    vaccines                  commercialised            gmos                      
+insect                    resistant                 herbicide                 tolerant                  crop                      
+plants                    genetically               modified                  animals                   used                      
+research                  model                     animals                   production                agricultural              
+pharmaceutical            products                  genetically               modified                  animals                   
+incorporate               animals                   genes                     knocked                   increased                 
+susceptibility            disease                   hormones                  extra                     growth                    
+ability                   express                   proteins                  milk                      
+
+STEMMING
+------------------------------------------------------------------------------------------------------------------------------------------------------
+basic                     genet                     engin                     also                      known                     
+genet                     modif                     genet                     manipul                   repres                    
+direct                    manipul                   organism                  gene                      emploi                    
+biotechnologi             set                       technologi                us                        chang                     
+genet                     makeup                    cell                      incorpor                  transfer                  
+gene                      within                    across                    speci                     boundari                  
+gener                     enhan                     novel                     organ                     new                       
+dna                       attain                    either                    isol                      copi                      
+genet                     materi                    interest                  us                        recombin                  
+dna                       strategi                  artifici                  synthesis                 dna                       
+construct                 gener                     creat                     emploi                    insert                    
+dna                       host                      organ                     first                     recombin                  
+dna                       molecul                   made                      paul                      berg                      
+combin                    dna                       monkei                    viru                      sv                        
+lambda                    viru                      well                      inser                     gene                      
+phenomenon                us                        remov                     "knock                    out"                      
+gene                      novel                     dna                       inser                     randomli                  
+target                    specif                    part                      genom                     genet                     
+engin                     phenomenon                alter                     genet                     structur                  
+organ                     either                    remov                     introduc                  dna                       
+unlik                     tradit                    anim                      plant                     breed                     
+involv                    multip                    cross                     selec                     organ                     
+desir                     phenotyp                  genet                     engin                     take                      
+gene                      directli                  on                        organ                     deliv                     
+much                      faster                    us                        insert                    gene                      
+organ                     even                      on                        differ                    domain                    
+prevent                   undesir                   gene                      also                      appen                     
+genet                     engin                     could                     potenti                   fix                       
+sever                     genet                     disord                    human                     replac                    
+defect                    gene                      function                  on                        import                    
+tool                      research                  allow                     function                  specif                    
+gene                      studi                     drug                      vaccin                    product                   
+harves                    organ                     engin                     produc                    crop                      
+develop                   aid                       food                      secur                     increas                   
+yield                     nutrit                    valu                      toler                     environment               
+stress                    dna                       introduc                  directli                  host                      
+organ                     cell                      fuse                      hybridis                  host                      
+reli                      recombin                  nucleic                   acid                      techniqu                  
+form                      new                       combin                    herit                     genet                     
+materi                    follow                    incorpor                  materi                    either                    
+indirectli                vector                    system                    directli                  micro inject              
+macro inject              micro encapsul            genet                     engin                     normal                    
+includ                    tradit                    breed                     vitro                     fertilis                  
+induct                    polyploidi                mutagenesi                cell                      fusion                    
+techniqu                  do                        us                        recombin                  nucleic                   
+acid                      genetic                   modifi                    organ                     process                   
+howev                     broad                     definit                   genet                     engin                     
+includ                    select                    breed                     clone                     stem                      
+cell                      research                  although                  consid                    genet                     
+engin                     close                     relat                     genet                     engin                     
+us                        within                    synthet                   biologi                   emer                      
+disciplin                 take                      genet                     engin                     step                      
+introduc                  artifici                  synthesis                 materi                    organ                     
+synthet                   dna                       artifici                  expan                     genet                     
+inform                    system                    hachimoji                 dna                       made                      
+new                       field                     thterm                    e                         next                      
+step                      isol                      candid                    gene                      cell                      
+contain                   gene                      open                      dna                       purifi                    
+gene                      separ                     us                        restrict                  enzym                     
+cut                       dna                       fragment                  polymeras                 chain                     
+reaction                  pcr                       amplifi                   gene                      segment                   
+segment                   extrac                    gel                       electrophoresi            chosen                    
+gene                      donor                     organ                     genom                     well                      
+studi                     mai                       alreadi                   access                    genet                     
+librari                   dna                       sequenc                   known                     copi                      
+gene                      avail                     also                      artifici                  synthesis                 
+isol                      gene                      ligat                     plasmid                   inser                     
+bacterium                 plasmid                   replic                    bacteria                  divid                     
+ensur                     unlimit                   copi                      gene                      avail                     
+applic                    genet                     engin                     variou                    applic                    
+medicin                   research                  industri                  agricultur                us                        
+wide                      rang                      plant                     anim                      microorgan                
+bacteria                  first                     organ                     genetic                   modifi                    
+plasmid                   dna                       inser                     contain                   new                       
+gene                      code                      medicin                   enzym                     process                   
+food                      substrat                  plant                     modifi                    insect                    
+protect                   herbicid                  resist                    viru                      resist                    
+enhan                     nutrit                    toler                     environment               pressur                   
+product                   edib                      vaccin                    commercialis              gmo                       
+insect                    resist                    herbicid                  toler                     crop                      
+plant                     genetic                   modifi                    anim                      us                        
+research                  model                     anim                      product                   agricultur                
+pharmaceutic              product                   genetic                   modifi                    anim                      
+incorpor                  anim                      gene                      knoc                      increas                   
+suscept                   diseas                    hormon                    extra                     growth                    
+abil                      express                   protein                   milk                      
+
+DOCUMENTS
+------------------------------------------------------------------------------------------------------------------------------------------------------
+0 : ['basic', 'genet', 'engin', 'also', 'known', 'genet', 'modif', 'genet', 'manipul', 'repres', 'direct', 'manipul', 'organism ', 'gene', 'emploi', 'biotechnologi']
+1 : ['set', 'technologi', 'us', 'chang', 'genet', 'makeup', 'cell', 'incorpor', 'transfer', 'gene', 'within', 'across', 'speci', 'boundari', 'gener', 'enhan', 'novel', 'organ']
+2 : ['new', 'dna', 'attain', 'either', 'isol', 'copi', 'genet', 'materi', 'interest', 'us', 'recombin', 'dna', 'strategi', 'artifici', 'synthesis', 'dna']
+3 : ['construct', 'gener', 'creat', 'emploi', 'insert', 'dna', 'host', 'organ']
+4 : ['first', 'recombin', 'dna', 'molecul', 'made', 'paul', 'berg', 'combin', 'dna', 'monkei', 'viru', 'sv', 'lambda', 'viru']
+5 : ['well', 'inser', 'gene', 'phenomenon', 'us', 'remov', '"knock', 'out"', 'gene']
+6 : ['novel', 'dna', 'inser', 'randomli', 'target', 'specif', 'part', 'genom']
+7 : ['genet', 'engin', 'phenomenon', 'alter', 'genet', 'structur', 'organ', 'either', 'remov', 'introduc', 'dna']
+8 : ['unlik', 'tradit', 'anim', 'plant', 'breed', 'involv', 'multip', 'cross', 'selec', 'organ', 'desir', 'phenotyp', 'genet', 'engin', 'take', 'gene', 'directli', 'on', 'organ', 'deliv']
+9 : ['much', 'faster', 'us', 'insert', 'gene', 'organ', 'even', 'on', 'differ', 'domain', 'prevent', 'undesir', 'gene', 'also', 'appen']
+10 : ['genet', 'engin', 'could', 'potenti', 'fix', 'sever', 'genet', 'disord', 'human', 'replac', 'defect', 'gene', 'function', 'on']
+11 : ['import', 'tool', 'research', 'allow', 'function', 'specif', 'gene', 'studi']
+12 : ['drug', 'vaccin', 'product', 'harves', 'organ', 'engin', 'produc']
+13 : ['crop', 'develop', 'aid', 'food', 'secur', 'increas', 'yield', 'nutrit', 'valu', 'toler', 'environment', 'stress']
+14 : ['dna', 'introduc', 'directli', 'host', 'organ', 'cell', 'fuse', 'hybridis', 'host']
+15 : ['reli', 'recombin', 'nucleic', 'acid', 'techniqu', 'form', 'new', 'combin', 'herit', 'genet', 'materi', 'follow', 'incorpor', 'materi', 'either', 'indirectli', 'vector', 'system', 'directli', 'micro inject', 'macro inject', 'micro encapsul']
+16 : ['genet', 'engin', 'normal', 'includ', 'tradit', 'breed', 'vitro', 'fertilis', 'induct', 'polyploidi', 'mutagenesi', 'cell', 'fusion', 'techniqu', 'do', 'us', 'recombin', 'nucleic', 'acid', 'genetic', 'modifi', 'organ', 'process']
+17 : ['howev', 'broad', 'definit', 'genet', 'engin', 'includ', 'select', 'breed']
+18 : ['clone', 'stem', 'cell', 'research', 'although', 'consid', 'genet', 'engin', 'close', 'relat', 'genet', 'engin', 'us', 'within']
+19 : ['synthet', 'biologi', 'emer', 'disciplin', 'take', 'genet', 'engin', 'step', 'introduc', 'artifici', 'synthesis', 'materi', 'organ']
+20 : ['synthet', 'dna', 'artifici', 'expan', 'genet', 'inform', 'system', 'hachimoji', 'dna', 'made', 'new', 'field']
+21 : ['thterm', 'e', 'next', 'step', 'isol', 'candid', 'gene']
+22 : ['cell', 'contain', 'gene', 'open', 'dna', 'purifi']
+23 : ['gene', 'separ', 'us', 'restrict', 'enzym', 'cut', 'dna', 'fragment', 'polymeras', 'chain', 'reaction', 'pcr', 'amplifi', 'gene', 'segment']
+24 : ['segment', 'extrac', 'gel', 'electrophoresi']
+25 : ['chosen', 'gene', 'donor', 'organ', 'genom', 'well', 'studi', 'mai', 'alreadi', 'access', 'genet', 'librari']
+26 : ['dna', 'sequenc', 'known', 'copi', 'gene', 'avail', 'also', 'artifici', 'synthesis']
+27 : ['isol', 'gene', 'ligat', 'plasmid', 'inser', 'bacterium']
+28 : ['plasmid', 'replic', 'bacteria', 'divid', 'ensur', 'unlimit', 'copi', 'gene', 'avail']
+29 : ['applic']
+30 : ['genet', 'engin', 'variou', 'applic', 'medicin', 'research', 'industri', 'agricultur', 'us', 'wide', 'rang', 'plant', 'anim', 'microorgan']
+31 : ['bacteria', 'first', 'organ', 'genetic', 'modifi', 'plasmid', 'dna', 'inser', 'contain', 'new', 'gene', 'code', 'medicin', 'enzym', 'process', 'food', 'substrat']
+32 : ['plant', 'modifi', 'insect', 'protect', 'herbicid', 'resist', 'viru', 'resist', 'enhan', 'nutrit', 'toler', 'environment', 'pressur', 'product', 'edib', 'vaccin']
+33 : ['commercialis', 'gmo', 'insect', 'resist', 'herbicid', 'toler', 'crop', 'plant']
+34 : ['genetic', 'modifi', 'anim', 'us', 'research', 'model', 'anim', 'product', 'agricultur', 'pharmaceutic', 'product']
+35 : ['genetic', 'modifi', 'anim', 'incorpor', 'anim', 'gene', 'knoc', 'increas', 'suscept', 'diseas', 'hormon', 'extra', 'growth', 'abil', 'express', 'protein', 'milk']
+
+
+DOCUMENT FREQUENCY
+------------------------------------------------------------------------------------------------------------------------------------------------------
+basic : 1                      genet : 14                     engin : 10                     
+also : 3                       known : 2                      modif : 1                      
+manipul : 1                    repres : 1                     direct : 1                     
+organism  : 1                  gene : 16                      emploi : 2                     
+biotechnologi : 1              set : 1                        technologi : 1                 
+us : 9                         chang : 1                      makeup : 1                     
+cell : 5                       incorpor : 3                   transfer : 1                   
+within : 2                     across : 1                     speci : 1                      
+boundari : 1                   gener : 2                      enhan : 2                      
+novel : 2                      organ : 11                     new : 4                        
+dna : 11                       attain : 1                     either : 3                     
+isol : 3                       copi : 3                       materi : 3                     
+interest : 1                   recombin : 4                   strategi : 1                   
+artifici : 4                   synthesis : 3                  construct : 1                  
+creat : 1                      insert : 2                     host : 2                       
+first : 2                      molecul : 1                    made : 2                       
+paul : 1                       berg : 1                       combin : 2                     
+monkei : 1                     viru : 2                       sv : 1                         
+lambda : 1                     well : 2                       inser : 4                      
+phenomenon : 2                 remov : 2                      "knock : 1                     
+out" : 1                       randomli : 1                   target : 1                     
+specif : 2                     part : 1                       genom : 2                      
+alter : 1                      structur : 1                   introduc : 3                   
+unlik : 1                      tradit : 2                     anim : 4                       
+plant : 4                      breed : 3                      involv : 1                     
+multip : 1                     cross : 1                      selec : 1                      
+desir : 1                      phenotyp : 1                   take : 2                       
+directli : 3                   on : 3                         deliv : 1                      
+much : 1                       faster : 1                     even : 1                       
+differ : 1                     domain : 1                     prevent : 1                    
+undesir : 1                    appen : 1                      could : 1                      
+potenti : 1                    fix : 1                        sever : 1                      
+disord : 1                     human : 1                      replac : 1                     
+defect : 1                     function : 2                   import : 1                     
+tool : 1                       research : 4                   allow : 1                      
+studi : 2                      drug : 1                       vaccin : 2                     
+product : 3                    harves : 1                     produc : 1                     
+crop : 2                       develop : 1                    aid : 1                        
+food : 2                       secur : 1                      increas : 2                    
+yield : 1                      nutrit : 2                     valu : 1                       
+toler : 3                      environment : 2                stress : 1                     
+fuse : 1                       hybridis : 1                   reli : 1                       
+nucleic : 2                    acid : 2                       techniqu : 2                   
+form : 1                       herit : 1                      follow : 1                     
+indirectli : 1                 vector : 1                     system : 2                     
+micro inject : 1               macro inject : 1               micro encapsul : 1             
+normal : 1                     includ : 2                     vitro : 1                      
+fertilis : 1                   induct : 1                     polyploidi : 1                 
+mutagenesi : 1                 fusion : 1                     do : 1                         
+genetic : 4                    modifi : 5                     process : 2                    
+howev : 1                      broad : 1                      definit : 1                    
+select : 1                     clone : 1                      stem : 1                       
+although : 1                   consid : 1                     close : 1                      
+relat : 1                      synthet : 2                    biologi : 1                    
+emer : 1                       disciplin : 1                  step : 2                       
+expan : 1                      inform : 1                     hachimoji : 1                  
+field : 1                      thterm : 1                     e : 1                          
+next : 1                       candid : 1                     contain : 2                    
+open : 1                       purifi : 1                     separ : 1                      
+restrict : 1                   enzym : 2                      cut : 1                        
+fragment : 1                   polymeras : 1                  chain : 1                      
+reaction : 1                   pcr : 1                        amplifi : 1                    
+segment : 2                    extrac : 1                     gel : 1                        
+electrophoresi : 1             chosen : 1                     donor : 1                      
+mai : 1                        alreadi : 1                    access : 1                     
+librari : 1                    sequenc : 1                    avail : 2                      
+ligat : 1                      plasmid : 3                    bacterium : 1                  
+replic : 1                     bacteria : 2                   divid : 1                      
+ensur : 1                      unlimit : 1                    applic : 2                     
+variou : 1                     medicin : 2                    industri : 1                   
+agricultur : 2                 wide : 1                       rang : 1                       
+microorgan : 1                 code : 1                       substrat : 1                   
+insect : 2                     protect : 1                    herbicid : 2                   
+resist : 2                     pressur : 1                    edib : 1                       
+commercialis : 1               gmo : 1                        model : 1                      
+pharmaceutic : 1               knoc : 1                       suscept : 1                    
+diseas : 1                     hormon : 1                     extra : 1                      
+growth : 1                     abil : 1                       express : 1                    
+protein : 1                    milk : 1                       
+
+TERM DOCUMENT FREQUENCY
+------------------------------------------------------------------------------------------------------------------------------------------------------
+basic : 0.0625                      genet : 0.1875                      engin : 0.0625                      also : 0.0625                       known : 0.0625                      
+modif : 0.0625                      manipul : 0.125                     repres : 0.0625                     direct : 0.0625                     organism  : 0.0625                  
+gene : 0.0625                       emploi : 0.0625                     biotechnologi : 0.0625              set : 0.0556                        technologi : 0.0556                 
+us : 0.0556                         chang : 0.0556                      genet : 0.0556                      makeup : 0.0556                     cell : 0.0556                       
+incorpor : 0.0556                   transfer : 0.0556                   gene : 0.0556                       within : 0.0556                     across : 0.0556                     
+speci : 0.0556                      boundari : 0.0556                   gener : 0.0556                      enhan : 0.0556                      novel : 0.0556                      
+organ : 0.0556                      new : 0.0625                        dna : 0.1875                        attain : 0.0625                     either : 0.0625                     
+isol : 0.0625                       copi : 0.0625                       genet : 0.0625                      materi : 0.0625                     interest : 0.0625                   
+us : 0.0625                         recombin : 0.0625                   strategi : 0.0625                   artifici : 0.0625                   synthesis : 0.0625                  
+construct : 0.125                   gener : 0.125                       creat : 0.125                       emploi : 0.125                      insert : 0.125                      
+dna : 0.125                         host : 0.125                        organ : 0.125                       first : 0.0714                      recombin : 0.0714                   
+dna : 0.1429                        molecul : 0.0714                    made : 0.0714                       paul : 0.0714                       berg : 0.0714                       
+combin : 0.0714                     monkei : 0.0714                     viru : 0.1429                       sv : 0.0714                         lambda : 0.0714                     
+well : 0.1111                       inser : 0.1111                      gene : 0.2222                       phenomenon : 0.1111                 us : 0.1111                         
+remov : 0.1111                      "knock : 0.1111                     out" : 0.1111                       novel : 0.125                       dna : 0.125                         
+inser : 0.125                       randomli : 0.125                    target : 0.125                      specif : 0.125                      part : 0.125                        
+genom : 0.125                       genet : 0.1818                      engin : 0.0909                      phenomenon : 0.0909                 alter : 0.0909                      
+structur : 0.0909                   organ : 0.0909                      either : 0.0909                     remov : 0.0909                      introduc : 0.0909                   
+dna : 0.0909                        unlik : 0.05                        tradit : 0.05                       anim : 0.05                         plant : 0.05                        
+breed : 0.05                        involv : 0.05                       multip : 0.05                       cross : 0.05                        selec : 0.05                        
+organ : 0.1                         desir : 0.05                        phenotyp : 0.05                     genet : 0.05                        engin : 0.05                        
+take : 0.05                         gene : 0.05                         directli : 0.05                     on : 0.05                           deliv : 0.05                        
+much : 0.0667                       faster : 0.0667                     us : 0.0667                         insert : 0.0667                     gene : 0.1333                       
+organ : 0.0667                      even : 0.0667                       on : 0.0667                         differ : 0.0667                     domain : 0.0667                     
+prevent : 0.0667                    undesir : 0.0667                    also : 0.0667                       appen : 0.0667                      genet : 0.1429                      
+engin : 0.0714                      could : 0.0714                      potenti : 0.0714                    fix : 0.0714                        sever : 0.0714                      
+disord : 0.0714                     human : 0.0714                      replac : 0.0714                     defect : 0.0714                     gene : 0.0714                       
+function : 0.0714                   on : 0.0714                         import : 0.125                      tool : 0.125                        research : 0.125                    
+allow : 0.125                       function : 0.125                    specif : 0.125                      gene : 0.125                        studi : 0.125                       
+drug : 0.1429                       vaccin : 0.1429                     product : 0.1429                    harves : 0.1429                     organ : 0.1429                      
+engin : 0.1429                      produc : 0.1429                     crop : 0.0833                       develop : 0.0833                    aid : 0.0833                        
+food : 0.0833                       secur : 0.0833                      increas : 0.0833                    yield : 0.0833                      nutrit : 0.0833                     
+valu : 0.0833                       toler : 0.0833                      environment : 0.0833                stress : 0.0833                     dna : 0.1111                        
+introduc : 0.1111                   directli : 0.1111                   host : 0.2222                       organ : 0.1111                      cell : 0.1111                       
+fuse : 0.1111                       hybridis : 0.1111                   reli : 0.0455                       recombin : 0.0455                   nucleic : 0.0455                    
+acid : 0.0455                       techniqu : 0.0455                   form : 0.0455                       new : 0.0455                        combin : 0.0455                     
+herit : 0.0455                      genet : 0.0455                      materi : 0.0909                     follow : 0.0455                     incorpor : 0.0455                   
+either : 0.0455                     indirectli : 0.0455                 vector : 0.0455                     system : 0.0455                     directli : 0.0455                   
+micro inject : 0.0455               macro inject : 0.0455               micro encapsul : 0.0455             genet : 0.0435                      engin : 0.0435                      
+normal : 0.0435                     includ : 0.0435                     tradit : 0.0435                     breed : 0.0435                      vitro : 0.0435                      
+fertilis : 0.0435                   induct : 0.0435                     polyploidi : 0.0435                 mutagenesi : 0.0435                 cell : 0.0435                       
+fusion : 0.0435                     techniqu : 0.0435                   do : 0.0435                         us : 0.0435                         recombin : 0.0435                   
+nucleic : 0.0435                    acid : 0.0435                       genetic : 0.0435                    modifi : 0.0435                     organ : 0.0435                      
+process : 0.0435                    howev : 0.125                       broad : 0.125                       definit : 0.125                     genet : 0.125                       
+engin : 0.125                       includ : 0.125                      select : 0.125                      breed : 0.125                       clone : 0.0714                      
+stem : 0.0714                       cell : 0.0714                       research : 0.0714                   although : 0.0714                   consid : 0.0714                     
+genet : 0.1429                      engin : 0.1429                      close : 0.0714                      relat : 0.0714                      us : 0.0714                         
+within : 0.0714                     synthet : 0.0769                    biologi : 0.0769                    emer : 0.0769                       disciplin : 0.0769                  
+take : 0.0769                       genet : 0.0769                      engin : 0.0769                      step : 0.0769                       introduc : 0.0769                   
+artifici : 0.0769                   synthesis : 0.0769                  materi : 0.0769                     organ : 0.0769                      synthet : 0.0833                    
+dna : 0.1667                        artifici : 0.0833                   expan : 0.0833                      genet : 0.0833                      inform : 0.0833                     
+system : 0.0833                     hachimoji : 0.0833                  made : 0.0833                       new : 0.0833                        field : 0.0833                      
+thterm : 0.1429                     e : 0.1429                          next : 0.1429                       step : 0.1429                       isol : 0.1429                       
+candid : 0.1429                     gene : 0.1429                       cell : 0.1667                       contain : 0.1667                    gene : 0.1667                       
+open : 0.1667                       dna : 0.1667                        purifi : 0.1667                     gene : 0.1333                       separ : 0.0667                      
+us : 0.0667                         restrict : 0.0667                   enzym : 0.0667                      cut : 0.0667                        dna : 0.0667                        
+fragment : 0.0667                   polymeras : 0.0667                  chain : 0.0667                      reaction : 0.0667                   pcr : 0.0667                        
+amplifi : 0.0667                    segment : 0.0667                    segment : 0.25                      extrac : 0.25                       gel : 0.25                          
+electrophoresi : 0.25               chosen : 0.0833                     gene : 0.0833                       donor : 0.0833                      organ : 0.0833                      
+genom : 0.0833                      well : 0.0833                       studi : 0.0833                      mai : 0.0833                        alreadi : 0.0833                    
+access : 0.0833                     genet : 0.0833                      librari : 0.0833                    dna : 0.1111                        sequenc : 0.1111                    
+known : 0.1111                      copi : 0.1111                       gene : 0.1111                       avail : 0.1111                      also : 0.1111                       
+artifici : 0.1111                   synthesis : 0.1111                  isol : 0.1667                       gene : 0.1667                       ligat : 0.1667                      
+plasmid : 0.1667                    inser : 0.1667                      bacterium : 0.1667                  plasmid : 0.1111                    replic : 0.1111                     
+bacteria : 0.1111                   divid : 0.1111                      ensur : 0.1111                      unlimit : 0.1111                    copi : 0.1111                       
+gene : 0.1111                       avail : 0.1111                      applic : 1.0                        genet : 0.0714                      engin : 0.0714                      
+variou : 0.0714                     applic : 0.0714                     medicin : 0.0714                    research : 0.0714                   industri : 0.0714                   
+agricultur : 0.0714                 us : 0.0714                         wide : 0.0714                       rang : 0.0714                       plant : 0.0714                      
+anim : 0.0714                       microorgan : 0.0714                 bacteria : 0.0588                   first : 0.0588                      organ : 0.0588                      
+genetic : 0.0588                    modifi : 0.0588                     plasmid : 0.0588                    dna : 0.0588                        inser : 0.0588                      
+contain : 0.0588                    new : 0.0588                        gene : 0.0588                       code : 0.0588                       medicin : 0.0588                    
+enzym : 0.0588                      process : 0.0588                    food : 0.0588                       substrat : 0.0588                   plant : 0.0625                      
+modifi : 0.0625                     insect : 0.0625                     protect : 0.0625                    herbicid : 0.0625                   resist : 0.125                      
+viru : 0.0625                       enhan : 0.0625                      nutrit : 0.0625                     toler : 0.0625                      environment : 0.0625                
+pressur : 0.0625                    product : 0.0625                    edib : 0.0625                       vaccin : 0.0625                     commercialis : 0.125                
+gmo : 0.125                         insect : 0.125                      resist : 0.125                      herbicid : 0.125                    toler : 0.125                       
+crop : 0.125                        plant : 0.125                       genetic : 0.0909                    modifi : 0.0909                     anim : 0.1818                       
+us : 0.0909                         research : 0.0909                   model : 0.0909                      product : 0.1818                    agricultur : 0.0909                 
+pharmaceutic : 0.0909               genetic : 0.0588                    modifi : 0.0588                     anim : 0.1176                       incorpor : 0.0588                   
+gene : 0.0588                       knoc : 0.0588                       increas : 0.0588                    suscept : 0.0588                    diseas : 0.0588                     
+hormon : 0.0588                     extra : 0.0588                      growth : 0.0588                     abil : 0.0588                       express : 0.0588                    
+protein : 0.0588                    milk : 0.0588                       
+
+INVERSE DOCUMENT FREQUENCY
+------------------------------------------------------------------------------------------------------------------------------------------------------
+basic : 3.5835                 genet : 0.9445                 engin : 1.2809                 
+also : 2.4849                  known : 2.8904                 modif : 3.5835                 
+manipul : 3.5835               repres : 3.5835                direct : 3.5835                
+organism  : 3.5835             gene : 0.8109                  emploi : 2.8904                
+biotechnologi : 3.5835         set : 3.5835                   technologi : 3.5835            
+us : 1.3863                    chang : 3.5835                 makeup : 3.5835                
+cell : 1.9741                  incorpor : 2.4849              transfer : 3.5835              
+within : 2.8904                across : 3.5835                speci : 3.5835                 
+boundari : 3.5835              gener : 2.8904                 enhan : 2.8904                 
+novel : 2.8904                 organ : 1.1856                 new : 2.1972                   
+dna : 1.1856                   attain : 3.5835                either : 2.4849                
+isol : 2.4849                  copi : 2.4849                  materi : 2.4849                
+interest : 3.5835              recombin : 2.1972              strategi : 3.5835              
+artifici : 2.1972              synthesis : 2.4849             construct : 3.5835             
+creat : 3.5835                 insert : 2.8904                host : 2.8904                  
+first : 2.8904                 molecul : 3.5835               made : 2.8904                  
+paul : 3.5835                  berg : 3.5835                  combin : 2.8904                
+monkei : 3.5835                viru : 2.8904                  sv : 3.5835                    
+lambda : 3.5835                well : 2.8904                  inser : 2.1972                 
+phenomenon : 2.8904            remov : 2.8904                 "knock : 3.5835                
+out" : 3.5835                  randomli : 3.5835              target : 3.5835                
+specif : 2.8904                part : 3.5835                  genom : 2.8904                 
+alter : 3.5835                 structur : 3.5835              introduc : 2.4849              
+unlik : 3.5835                 tradit : 2.8904                anim : 2.1972                  
+plant : 2.1972                 breed : 2.4849                 involv : 3.5835                
+multip : 3.5835                cross : 3.5835                 selec : 3.5835                 
+desir : 3.5835                 phenotyp : 3.5835              take : 2.8904                  
+directli : 2.4849              on : 2.4849                    deliv : 3.5835                 
+much : 3.5835                  faster : 3.5835                even : 3.5835                  
+differ : 3.5835                domain : 3.5835                prevent : 3.5835               
+undesir : 3.5835               appen : 3.5835                 could : 3.5835                 
+potenti : 3.5835               fix : 3.5835                   sever : 3.5835                 
+disord : 3.5835                human : 3.5835                 replac : 3.5835                
+defect : 3.5835                function : 2.8904              import : 3.5835                
+tool : 3.5835                  research : 2.1972              allow : 3.5835                 
+studi : 2.8904                 drug : 3.5835                  vaccin : 2.8904                
+product : 2.4849               harves : 3.5835                produc : 3.5835                
+crop : 2.8904                  develop : 3.5835               aid : 3.5835                   
+food : 2.8904                  secur : 3.5835                 increas : 2.8904               
+yield : 3.5835                 nutrit : 2.8904                valu : 3.5835                  
+toler : 2.4849                 environment : 2.8904           stress : 3.5835                
+fuse : 3.5835                  hybridis : 3.5835              reli : 3.5835                  
+nucleic : 2.8904               acid : 2.8904                  techniqu : 2.8904              
+form : 3.5835                  herit : 3.5835                 follow : 3.5835                
+indirectli : 3.5835            vector : 3.5835                system : 2.8904                
+micro inject : 3.5835          macro inject : 3.5835          micro encapsul : 3.5835        
+normal : 3.5835                includ : 2.8904                vitro : 3.5835                 
+fertilis : 3.5835              induct : 3.5835                polyploidi : 3.5835            
+mutagenesi : 3.5835            fusion : 3.5835                do : 3.5835                    
+genetic : 2.1972               modifi : 1.9741                process : 2.8904               
+howev : 3.5835                 broad : 3.5835                 definit : 3.5835               
+select : 3.5835                clone : 3.5835                 stem : 3.5835                  
+although : 3.5835              consid : 3.5835                close : 3.5835                 
+relat : 3.5835                 synthet : 2.8904               biologi : 3.5835               
+emer : 3.5835                  disciplin : 3.5835             step : 2.8904                  
+expan : 3.5835                 inform : 3.5835                hachimoji : 3.5835             
+field : 3.5835                 thterm : 3.5835                e : 3.5835                     
+next : 3.5835                  candid : 3.5835                contain : 2.8904               
+open : 3.5835                  purifi : 3.5835                separ : 3.5835                 
+restrict : 3.5835              enzym : 2.8904                 cut : 3.5835                   
+fragment : 3.5835              polymeras : 3.5835             chain : 3.5835                 
+reaction : 3.5835              pcr : 3.5835                   amplifi : 3.5835               
+segment : 2.8904               extrac : 3.5835                gel : 3.5835                   
+electrophoresi : 3.5835        chosen : 3.5835                donor : 3.5835                 
+mai : 3.5835                   alreadi : 3.5835               access : 3.5835                
+librari : 3.5835               sequenc : 3.5835               avail : 2.8904                 
+ligat : 3.5835                 plasmid : 2.4849               bacterium : 3.5835             
+replic : 3.5835                bacteria : 2.8904              divid : 3.5835                 
+ensur : 3.5835                 unlimit : 3.5835               applic : 2.8904                
+variou : 3.5835                medicin : 2.8904               industri : 3.5835              
+agricultur : 2.8904            wide : 3.5835                  rang : 3.5835                  
+microorgan : 3.5835            code : 3.5835                  substrat : 3.5835              
+insect : 2.8904                protect : 3.5835               herbicid : 2.8904              
+resist : 2.8904                pressur : 3.5835               edib : 3.5835                  
+commercialis : 3.5835          gmo : 3.5835                   model : 3.5835                 
+pharmaceutic : 3.5835          knoc : 3.5835                  suscept : 3.5835               
+diseas : 3.5835                hormon : 3.5835                extra : 3.5835                 
+growth : 3.5835                abil : 3.5835                  express : 3.5835               
+protein : 3.5835               milk : 3.5835                  
+
+DOCUMENT TERM SCORE TF x IDF
+------------------------------------------------------------------------------------------------------------------------------------------------------
+(0,basic) : 0.224              (0,genet) : 0.1771             (0,engin) : 0.0801             (0,also) : 0.1553              (0,known) : 0.1806             
+(0,modif) : 0.224              (0,manipul) : 0.4479           (0,repres) : 0.224             (0,direct) : 0.224             (0,organism ) : 0.224          
+(0,gene) : 0.0507              (0,emploi) : 0.1806            (0,biotechnologi) : 0.224      (1,set) : 0.1992               (1,technologi) : 0.1992        
+(1,us) : 0.0771                (1,chang) : 0.1992             (1,genet) : 0.0525             (1,makeup) : 0.1992            (1,cell) : 0.1098              
+(1,incorpor) : 0.1382          (1,transfer) : 0.1992          (1,gene) : 0.0451              (1,within) : 0.1607            (1,across) : 0.1992            
+(1,speci) : 0.1992             (1,boundari) : 0.1992          (1,gener) : 0.1607             (1,enhan) : 0.1607             (1,novel) : 0.1607             
+(1,organ) : 0.0659             (2,new) : 0.1373               (2,dna) : 0.2223               (2,attain) : 0.224             (2,either) : 0.1553            
+(2,isol) : 0.1553              (2,copi) : 0.1553              (2,genet) : 0.059              (2,materi) : 0.1553            (2,interest) : 0.224           
+(2,us) : 0.0866                (2,recombin) : 0.1373          (2,strategi) : 0.224           (2,artifici) : 0.1373          (2,synthesis) : 0.1553         
+(3,construct) : 0.4479         (3,gener) : 0.3613             (3,creat) : 0.4479             (3,emploi) : 0.3613            (3,insert) : 0.3613            
+(3,dna) : 0.1482               (3,host) : 0.3613              (3,organ) : 0.1482             (4,first) : 0.2064             (4,recombin) : 0.1569          
+(4,dna) : 0.1694               (4,molecul) : 0.2559           (4,made) : 0.2064              (4,paul) : 0.2559              (4,berg) : 0.2559              
+(4,combin) : 0.2064            (4,monkei) : 0.2559            (4,viru) : 0.413               (4,sv) : 0.2559                (4,lambda) : 0.2559            
+(5,well) : 0.3211              (5,inser) : 0.2441             (5,gene) : 0.1802              (5,phenomenon) : 0.3211        (5,us) : 0.154                 
+(5,remov) : 0.3211             (5,"knock) : 0.3981            (5,out") : 0.3981              (6,novel) : 0.3613             (6,dna) : 0.1482               
+(6,inser) : 0.2747             (6,randomli) : 0.4479          (6,target) : 0.4479            (6,specif) : 0.3613            (6,part) : 0.4479              
+(6,genom) : 0.3613             (7,genet) : 0.1717             (7,engin) : 0.1164             (7,phenomenon) : 0.2627        (7,alter) : 0.3257             
+(7,structur) : 0.3257          (7,organ) : 0.1078             (7,either) : 0.2259            (7,remov) : 0.2627             (7,introduc) : 0.2259          
+(7,dna) : 0.1078               (8,unlik) : 0.1792             (8,tradit) : 0.1445            (8,anim) : 0.1099              (8,plant) : 0.1099             
+(8,breed) : 0.1242             (8,involv) : 0.1792            (8,multip) : 0.1792            (8,cross) : 0.1792             (8,selec) : 0.1792             
+(8,organ) : 0.1186             (8,desir) : 0.1792             (8,phenotyp) : 0.1792          (8,genet) : 0.0472             (8,engin) : 0.064              
+(8,take) : 0.1445              (8,gene) : 0.0405              (8,directli) : 0.1242          (8,on) : 0.1242                (8,deliv) : 0.1792             
+(9,much) : 0.239               (9,faster) : 0.239             (9,us) : 0.0925                (9,insert) : 0.1928            (9,gene) : 0.1081              
+(9,organ) : 0.0791             (9,even) : 0.239               (9,on) : 0.1657                (9,differ) : 0.239             (9,domain) : 0.239             
+(9,prevent) : 0.239            (9,undesir) : 0.239            (9,also) : 0.1657              (9,appen) : 0.239              (10,genet) : 0.135             
+(10,engin) : 0.0915            (10,could) : 0.2559            (10,potenti) : 0.2559          (10,fix) : 0.2559              (10,sever) : 0.2559            
+(10,disord) : 0.2559           (10,human) : 0.2559            (10,replac) : 0.2559           (10,defect) : 0.2559           (10,gene) : 0.0579             
+(10,function) : 0.2064         (10,on) : 0.1774               (11,import) : 0.4479           (11,tool) : 0.4479             (11,research) : 0.2747         
+(11,allow) : 0.4479            (11,function) : 0.3613         (11,specif) : 0.3613           (11,gene) : 0.1014             (11,studi) : 0.3613            
+(12,drug) : 0.5121             (12,vaccin) : 0.413            (12,product) : 0.3551          (12,harves) : 0.5121           (12,organ) : 0.1694            
+(12,engin) : 0.183             (12,produc) : 0.5121           (13,crop) : 0.2408             (13,develop) : 0.2985          (13,aid) : 0.2985              
+(13,food) : 0.2408             (13,secur) : 0.2985            (13,increas) : 0.2408          (13,yield) : 0.2985            (13,nutrit) : 0.2408           
+(13,valu) : 0.2985             (13,toler) : 0.207             (13,environment) : 0.2408      (13,stress) : 0.2985           (14,dna) : 0.1317              
+(14,introduc) : 0.2761         (14,directli) : 0.2761         (14,host) : 0.6422             (14,organ) : 0.1317            (14,cell) : 0.2193             
+(14,fuse) : 0.3981             (14,hybridis) : 0.3981         (15,reli) : 0.1631             (15,recombin) : 0.1            (15,nucleic) : 0.1315          
+(15,acid) : 0.1315             (15,techniqu) : 0.1315         (15,form) : 0.1631             (15,new) : 0.1                 (15,combin) : 0.1315           
+(15,herit) : 0.1631            (15,genet) : 0.043             (15,materi) : 0.2259           (15,follow) : 0.1631           (15,incorpor) : 0.1131         
+(15,either) : 0.1131           (15,indirectli) : 0.1631       (15,vector) : 0.1631           (15,system) : 0.1315           (15,directli) : 0.1131         
+(15,micro inject) : 0.1631     (15,macro inject) : 0.1631     (15,micro encapsul) : 0.1631   (16,genet) : 0.0411            (16,engin) : 0.0557            
+(16,normal) : 0.1559           (16,includ) : 0.1257           (16,tradit) : 0.1257           (16,breed) : 0.1081            (16,vitro) : 0.1559            
+(16,fertilis) : 0.1559         (16,induct) : 0.1559           (16,polyploidi) : 0.1559       (16,mutagenesi) : 0.1559       (16,cell) : 0.0859             
+(16,fusion) : 0.1559           (16,techniqu) : 0.1257         (16,do) : 0.1559               (16,us) : 0.0603               (16,recombin) : 0.0956         
+(16,nucleic) : 0.1257          (16,acid) : 0.1257             (16,genetic) : 0.0956          (16,modifi) : 0.0859           (16,organ) : 0.0516            
+(16,process) : 0.1257          (17,howev) : 0.4479            (17,broad) : 0.4479            (17,definit) : 0.4479          (17,genet) : 0.1181            
+(17,engin) : 0.1601            (17,includ) : 0.3613           (17,select) : 0.4479           (17,breed) : 0.3106            (18,clone) : 0.2559            
+(18,stem) : 0.2559             (18,cell) : 0.1409             (18,research) : 0.1569         (18,although) : 0.2559         (18,consid) : 0.2559           
+(18,genet) : 0.135             (18,engin) : 0.183             (18,close) : 0.2559            (18,relat) : 0.2559            (18,us) : 0.099                
+(18,within) : 0.2064           (19,synthet) : 0.2223          (19,biologi) : 0.2756          (19,emer) : 0.2756             (19,disciplin) : 0.2756        
+(19,take) : 0.2223             (19,genet) : 0.0726            (19,engin) : 0.0985            (19,step) : 0.2223             (19,introduc) : 0.1911         
+(19,artifici) : 0.169          (19,synthesis) : 0.1911        (19,materi) : 0.1911           (19,organ) : 0.0912            (20,synthet) : 0.2408          
+(20,dna) : 0.1976              (20,artifici) : 0.183          (20,expan) : 0.2985            (20,genet) : 0.0787            (20,inform) : 0.2985           
+(20,system) : 0.2408           (20,hachimoji) : 0.2985        (20,made) : 0.2408             (20,new) : 0.183               (20,field) : 0.2985            
+(21,thterm) : 0.5121           (21,e) : 0.5121                (21,next) : 0.5121             (21,step) : 0.413              (21,isol) : 0.3551             
+(21,candid) : 0.5121           (21,gene) : 0.1159             (22,cell) : 0.3291             (22,contain) : 0.4818          (22,gene) : 0.1352             
+(22,open) : 0.5974             (22,dna) : 0.1976              (22,purifi) : 0.5974           (23,gene) : 0.1081             (23,separ) : 0.239             
+(23,us) : 0.0925               (23,restrict) : 0.239          (23,enzym) : 0.1928            (23,cut) : 0.239               (23,dna) : 0.0791              
+(23,fragment) : 0.239          (23,polymeras) : 0.239         (23,chain) : 0.239             (23,reaction) : 0.239          (23,pcr) : 0.239               
+(23,amplifi) : 0.239           (23,segment) : 0.1928          (24,segment) : 0.7226          (24,extrac) : 0.8959           (24,gel) : 0.8959              
+(24,electrophoresi) : 0.8959   (25,chosen) : 0.2985           (25,gene) : 0.0676             (25,donor) : 0.2985            (25,organ) : 0.0988            
+(25,genom) : 0.2408            (25,well) : 0.2408             (25,studi) : 0.2408            (25,mai) : 0.2985              (25,alreadi) : 0.2985          
+(25,access) : 0.2985           (25,genet) : 0.0787            (25,librari) : 0.2985          (26,dna) : 0.1317              (26,sequenc) : 0.3981          
+(26,known) : 0.3211            (26,copi) : 0.2761             (26,gene) : 0.0901             (26,avail) : 0.3211            (26,also) : 0.2761             
+(26,artifici) : 0.2441         (26,synthesis) : 0.2761        (27,isol) : 0.4142             (27,gene) : 0.1352             (27,ligat) : 0.5974            
+(27,plasmid) : 0.4142          (27,inser) : 0.3663            (27,bacterium) : 0.5974        (28,plasmid) : 0.2761          (28,replic) : 0.3981           
+(28,bacteria) : 0.3211         (28,divid) : 0.3981            (28,ensur) : 0.3981            (28,unlimit) : 0.3981          (28,copi) : 0.2761             
+(28,gene) : 0.0901             (28,avail) : 0.3211            (29,applic) : 2.8904           (30,genet) : 0.0674            (30,engin) : 0.0915            
+(30,variou) : 0.2559           (30,applic) : 0.2064           (30,medicin) : 0.2064          (30,research) : 0.1569         (30,industri) : 0.2559         
+(30,agricultur) : 0.2064       (30,us) : 0.099                (30,wide) : 0.2559             (30,rang) : 0.2559             (30,plant) : 0.1569            
+(30,anim) : 0.1569             (30,microorgan) : 0.2559       (31,bacteria) : 0.17           (31,first) : 0.17              (31,organ) : 0.0697            
+(31,genetic) : 0.1292          (31,modifi) : 0.1161           (31,plasmid) : 0.1461          (31,dna) : 0.0697              (31,inser) : 0.1292            
+(31,contain) : 0.17            (31,new) : 0.1292              (31,gene) : 0.0477             (31,code) : 0.2107             (31,medicin) : 0.17            
+(31,enzym) : 0.17              (31,process) : 0.17            (31,food) : 0.17               (31,substrat) : 0.2107         (32,plant) : 0.1373            
+(32,modifi) : 0.1234           (32,insect) : 0.1806           (32,protect) : 0.224           (32,herbicid) : 0.1806         (32,resist) : 0.3613           
+(32,viru) : 0.1806             (32,enhan) : 0.1806            (32,nutrit) : 0.1806           (32,toler) : 0.1553            (32,environment) : 0.1806      
+(32,pressur) : 0.224           (32,product) : 0.1553          (32,edib) : 0.224              (32,vaccin) : 0.1806           (33,commercialis) : 0.4479     
+(33,gmo) : 0.4479              (33,insect) : 0.3613           (33,resist) : 0.3613           (33,herbicid) : 0.3613         (33,toler) : 0.3106            
+(33,crop) : 0.3613             (33,plant) : 0.2747            (34,genetic) : 0.1997          (34,modifi) : 0.1794           (34,anim) : 0.3995             
+(34,us) : 0.126                (34,research) : 0.1997         (34,model) : 0.3257            (34,product) : 0.4518          (34,agricultur) : 0.2627       
+(34,pharmaceutic) : 0.3257     (35,genetic) : 0.1292          (35,modifi) : 0.1161           (35,anim) : 0.2584             (35,incorpor) : 0.1461         
+(35,gene) : 0.0477             (35,knoc) : 0.2107             (35,increas) : 0.17            (35,suscept) : 0.2107          (35,diseas) : 0.2107           
+(35,hormon) : 0.2107           (35,extra) : 0.2107            (35,growth) : 0.2107           (35,abil) : 0.2107             (35,express) : 0.2107          
+(35,protein) : 0.2107          (35,milk) : 0.2107             
+
+TERM QUERY FREQUENCY
+------------------------------------------------------------------------------------------------------------------------------------------------------
+next : 0.2                          step : 0.2                          isol : 0.2                          candid : 0.2                        gene : 0.2                          
+cell : 0.1667                       contain : 0.1667                    gene : 0.1667                       open : 0.1667                       dna : 0.1667                        
+purifi : 0.1667                     chosen : 0.2                        gene : 0.2                          donor : 0.2                         genom : 0.2                         
+well : 0.2                          well : 0.1429                       studi : 0.1429                      mai : 0.1429                        alreadi : 0.1429                    
+access : 0.1429                     genet : 0.1429                      librari : 0.1429                    dna : 0.2                           known : 0.2                         
+copi : 0.2                          gene : 0.2                          avail : 0.2                         isol : 0.1667                       gene : 0.1667                       
+ligat : 0.1667                      plasmid : 0.1667                    inser : 0.1667                      bacterium : 0.1667                  genet : 0.1667                      
+engin : 0.1667                      variou : 0.1667                     applic : 0.1667                     medicin : 0.1667                    research : 0.1667                   
+QUERY TERM SCORE TF x IDFq
+------------------------------------------------------------------------------------------------------------------------------------------------------
+(0,basic) : 0.224              (0,genet) : 0.1771             (0,engin) : 0.0801             (0,also) : 0.1553              (0,known) : 0.1806             
+(0,modif) : 0.224              (0,manipul) : 0.4479           (0,repres) : 0.224             (0,direct) : 0.224             (0,organism ) : 0.224          
+(0,gene) : 0.0507              (0,emploi) : 0.1806            (0,biotechnologi) : 0.224      (1,set) : 0.1992               (1,technologi) : 0.1992        
+(1,us) : 0.0771                (1,chang) : 0.1992             (1,genet) : 0.0525             (1,makeup) : 0.1992            (1,cell) : 0.1098              
+(1,incorpor) : 0.1382          (1,transfer) : 0.1992          (1,gene) : 0.0451              (1,within) : 0.1607            (1,across) : 0.1992            
+(1,speci) : 0.1992             (1,boundari) : 0.1992          (1,gener) : 0.1607             (1,enhan) : 0.1607             (1,novel) : 0.1607             
+(1,organ) : 0.0659             (2,new) : 0.1373               (2,dna) : 0.2223               (2,attain) : 0.224             (2,either) : 0.1553            
+(2,isol) : 0.1553              (2,copi) : 0.1553              (2,genet) : 0.059              (2,materi) : 0.1553            (2,interest) : 0.224           
+(2,us) : 0.0866                (2,recombin) : 0.1373          (2,strategi) : 0.224           (2,artifici) : 0.1373          (2,synthesis) : 0.1553         
+(3,construct) : 0.4479         (3,gener) : 0.3613             (3,creat) : 0.4479             (3,emploi) : 0.3613            (3,insert) : 0.3613            
+(3,dna) : 0.1482               (3,host) : 0.3613              (3,organ) : 0.1482             (4,first) : 0.2064             (4,recombin) : 0.1569          
+(4,dna) : 0.1694               (4,molecul) : 0.2559           (4,made) : 0.2064              (4,paul) : 0.2559              (4,berg) : 0.2559              
+(4,combin) : 0.2064            (4,monkei) : 0.2559            (4,viru) : 0.413               (4,sv) : 0.2559                (4,lambda) : 0.2559            
+(5,well) : 0.3211              (5,inser) : 0.2441             (5,gene) : 0.1802              (5,phenomenon) : 0.3211        (5,us) : 0.154                 
+(5,remov) : 0.3211             (5,"knock) : 0.3981            (5,out") : 0.3981              (6,novel) : 0.3613             (6,dna) : 0.1482               
+(6,inser) : 0.2747             (6,randomli) : 0.4479          (6,target) : 0.4479            (6,specif) : 0.3613            (6,part) : 0.4479              
+(6,genom) : 0.3613             (7,genet) : 0.1717             (7,engin) : 0.1164             (7,phenomenon) : 0.2627        (7,alter) : 0.3257             
+(7,structur) : 0.3257          (7,organ) : 0.1078             (7,either) : 0.2259            (7,remov) : 0.2627             (7,introduc) : 0.2259          
+(7,dna) : 0.1078               (8,unlik) : 0.1792             (8,tradit) : 0.1445            (8,anim) : 0.1099              (8,plant) : 0.1099             
+(8,breed) : 0.1242             (8,involv) : 0.1792            (8,multip) : 0.1792            (8,cross) : 0.1792             (8,selec) : 0.1792             
+(8,organ) : 0.1186             (8,desir) : 0.1792             (8,phenotyp) : 0.1792          (8,genet) : 0.0472             (8,engin) : 0.064              
+(8,take) : 0.1445              (8,gene) : 0.0405              (8,directli) : 0.1242          (8,on) : 0.1242                (8,deliv) : 0.1792             
+(9,much) : 0.239               (9,faster) : 0.239             (9,us) : 0.0925                (9,insert) : 0.1928            (9,gene) : 0.1081              
+(9,organ) : 0.0791             (9,even) : 0.239               (9,on) : 0.1657                (9,differ) : 0.239             (9,domain) : 0.239             
+(9,prevent) : 0.239            (9,undesir) : 0.239            (9,also) : 0.1657              (9,appen) : 0.239              (10,genet) : 0.135             
+(10,engin) : 0.0915            (10,could) : 0.2559            (10,potenti) : 0.2559          (10,fix) : 0.2559              (10,sever) : 0.2559            
+(10,disord) : 0.2559           (10,human) : 0.2559            (10,replac) : 0.2559           (10,defect) : 0.2559           (10,gene) : 0.0579             
+(10,function) : 0.2064         (10,on) : 0.1774               (11,import) : 0.4479           (11,tool) : 0.4479             (11,research) : 0.2747         
+(11,allow) : 0.4479            (11,function) : 0.3613         (11,specif) : 0.3613           (11,gene) : 0.1014             (11,studi) : 0.3613            
+(12,drug) : 0.5121             (12,vaccin) : 0.413            (12,product) : 0.3551          (12,harves) : 0.5121           (12,organ) : 0.1694            
+(12,engin) : 0.183             (12,produc) : 0.5121           (13,crop) : 0.2408             (13,develop) : 0.2985          (13,aid) : 0.2985              
+(13,food) : 0.2408             (13,secur) : 0.2985            (13,increas) : 0.2408          (13,yield) : 0.2985            (13,nutrit) : 0.2408           
+(13,valu) : 0.2985             (13,toler) : 0.207             (13,environment) : 0.2408      (13,stress) : 0.2985           (14,dna) : 0.1317              
+(14,introduc) : 0.2761         (14,directli) : 0.2761         (14,host) : 0.6422             (14,organ) : 0.1317            (14,cell) : 0.2193             
+(14,fuse) : 0.3981             (14,hybridis) : 0.3981         (15,reli) : 0.1631             (15,recombin) : 0.1            (15,nucleic) : 0.1315          
+(15,acid) : 0.1315             (15,techniqu) : 0.1315         (15,form) : 0.1631             (15,new) : 0.1                 (15,combin) : 0.1315           
+(15,herit) : 0.1631            (15,genet) : 0.043             (15,materi) : 0.2259           (15,follow) : 0.1631           (15,incorpor) : 0.1131         
+(15,either) : 0.1131           (15,indirectli) : 0.1631       (15,vector) : 0.1631           (15,system) : 0.1315           (15,directli) : 0.1131         
+(15,micro inject) : 0.1631     (15,macro inject) : 0.1631     (15,micro encapsul) : 0.1631   (16,genet) : 0.0411            (16,engin) : 0.0557            
+(16,normal) : 0.1559           (16,includ) : 0.1257           (16,tradit) : 0.1257           (16,breed) : 0.1081            (16,vitro) : 0.1559            
+(16,fertilis) : 0.1559         (16,induct) : 0.1559           (16,polyploidi) : 0.1559       (16,mutagenesi) : 0.1559       (16,cell) : 0.0859             
+(16,fusion) : 0.1559           (16,techniqu) : 0.1257         (16,do) : 0.1559               (16,us) : 0.0603               (16,recombin) : 0.0956         
+(16,nucleic) : 0.1257          (16,acid) : 0.1257             (16,genetic) : 0.0956          (16,modifi) : 0.0859           (16,organ) : 0.0516            
+(16,process) : 0.1257          (17,howev) : 0.4479            (17,broad) : 0.4479            (17,definit) : 0.4479          (17,genet) : 0.1181            
+(17,engin) : 0.1601            (17,includ) : 0.3613           (17,select) : 0.4479           (17,breed) : 0.3106            (18,clone) : 0.2559            
+(18,stem) : 0.2559             (18,cell) : 0.1409             (18,research) : 0.1569         (18,although) : 0.2559         (18,consid) : 0.2559           
+(18,genet) : 0.135             (18,engin) : 0.183             (18,close) : 0.2559            (18,relat) : 0.2559            (18,us) : 0.099                
+(18,within) : 0.2064           (19,synthet) : 0.2223          (19,biologi) : 0.2756          (19,emer) : 0.2756             (19,disciplin) : 0.2756        
+(19,take) : 0.2223             (19,genet) : 0.0726            (19,engin) : 0.0985            (19,step) : 0.2223             (19,introduc) : 0.1911         
+(19,artifici) : 0.169          (19,synthesis) : 0.1911        (19,materi) : 0.1911           (19,organ) : 0.0912            (20,synthet) : 0.2408          
+(20,dna) : 0.1976              (20,artifici) : 0.183          (20,expan) : 0.2985            (20,genet) : 0.0787            (20,inform) : 0.2985           
+(20,system) : 0.2408           (20,hachimoji) : 0.2985        (20,made) : 0.2408             (20,new) : 0.183               (20,field) : 0.2985            
+(21,thterm) : 0.5121           (21,e) : 0.5121                (21,next) : 0.5121             (21,step) : 0.413              (21,isol) : 0.3551             
+(21,candid) : 0.5121           (21,gene) : 0.1159             (22,cell) : 0.3291             (22,contain) : 0.4818          (22,gene) : 0.1352             
+(22,open) : 0.5974             (22,dna) : 0.1976              (22,purifi) : 0.5974           (23,gene) : 0.1081             (23,separ) : 0.239             
+(23,us) : 0.0925               (23,restrict) : 0.239          (23,enzym) : 0.1928            (23,cut) : 0.239               (23,dna) : 0.0791              
+(23,fragment) : 0.239          (23,polymeras) : 0.239         (23,chain) : 0.239             (23,reaction) : 0.239          (23,pcr) : 0.239               
+(23,amplifi) : 0.239           (23,segment) : 0.1928          (24,segment) : 0.7226          (24,extrac) : 0.8959           (24,gel) : 0.8959              
+(24,electrophoresi) : 0.8959   (25,chosen) : 0.2985           (25,gene) : 0.0676             (25,donor) : 0.2985            (25,organ) : 0.0988            
+(25,genom) : 0.2408            (25,well) : 0.2408             (25,studi) : 0.2408            (25,mai) : 0.2985              (25,alreadi) : 0.2985          
+(25,access) : 0.2985           (25,genet) : 0.0787            (25,librari) : 0.2985          (26,dna) : 0.1317              (26,sequenc) : 0.3981          
+(26,known) : 0.3211            (26,copi) : 0.2761             (26,gene) : 0.0901             (26,avail) : 0.3211            (26,also) : 0.2761             
+(26,artifici) : 0.2441         (26,synthesis) : 0.2761        (27,isol) : 0.4142             (27,gene) : 0.1352             (27,ligat) : 0.5974            
+(27,plasmid) : 0.4142          (27,inser) : 0.3663            (27,bacterium) : 0.5974        (28,plasmid) : 0.2761          (28,replic) : 0.3981           
+(28,bacteria) : 0.3211         (28,divid) : 0.3981            (28,ensur) : 0.3981            (28,unlimit) : 0.3981          (28,copi) : 0.2761             
+(28,gene) : 0.0901             (28,avail) : 0.3211            (29,applic) : 2.8904           (30,genet) : 0.0674            (30,engin) : 0.0915            
+(30,variou) : 0.2559           (30,applic) : 0.2064           (30,medicin) : 0.2064          (30,research) : 0.1569         (30,industri) : 0.2559         
+(30,agricultur) : 0.2064       (30,us) : 0.099                (30,wide) : 0.2559             (30,rang) : 0.2559             (30,plant) : 0.1569            
+(30,anim) : 0.1569             (30,microorgan) : 0.2559       (31,bacteria) : 0.17           (31,first) : 0.17              (31,organ) : 0.0697            
+(31,genetic) : 0.1292          (31,modifi) : 0.1161           (31,plasmid) : 0.1461          (31,dna) : 0.0697              (31,inser) : 0.1292            
+(31,contain) : 0.17            (31,new) : 0.1292              (31,gene) : 0.0477             (31,code) : 0.2107             (31,medicin) : 0.17            
+(31,enzym) : 0.17              (31,process) : 0.17            (31,food) : 0.17               (31,substrat) : 0.2107         (32,plant) : 0.1373            
+(32,modifi) : 0.1234           (32,insect) : 0.1806           (32,protect) : 0.224           (32,herbicid) : 0.1806         (32,resist) : 0.3613           
+(32,viru) : 0.1806             (32,enhan) : 0.1806            (32,nutrit) : 0.1806           (32,toler) : 0.1553            (32,environment) : 0.1806      
+(32,pressur) : 0.224           (32,product) : 0.1553          (32,edib) : 0.224              (32,vaccin) : 0.1806           (33,commercialis) : 0.4479     
+(33,gmo) : 0.4479              (33,insect) : 0.3613           (33,resist) : 0.3613           (33,herbicid) : 0.3613         (33,toler) : 0.3106            
+(33,crop) : 0.3613             (33,plant) : 0.2747            (34,genetic) : 0.1997          (34,modifi) : 0.1794           (34,anim) : 0.3995             
+(34,us) : 0.126                (34,research) : 0.1997         (34,model) : 0.3257            (34,product) : 0.4518          (34,agricultur) : 0.2627       
+(34,pharmaceutic) : 0.3257     (35,genetic) : 0.1292          (35,modifi) : 0.1161           (35,anim) : 0.2584             (35,incorpor) : 0.1461         
+(35,gene) : 0.0477             (35,knoc) : 0.2107             (35,increas) : 0.17            (35,suscept) : 0.2107          (35,diseas) : 0.2107           
+(35,hormon) : 0.2107           (35,extra) : 0.2107            (35,growth) : 0.2107           (35,abil) : 0.2107             (35,express) : 0.2107          
+(35,protein) : 0.2107          (35,milk) : 0.2107             
+
+QUERY MATRIX
+------------------------------------------------------------------------------------------------------------------------------------------------------
+0          0          0          0          0          0          0          0          0          0          
+0.1622     0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0.497      0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0.5781     0          0          0          0          0          
+0          0.7167     0.7167     0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0.1352     0          0          0          
+0          0          0          0          0.3291     0          0          0          0          0          
+0          0          0          0          0          0          0.1976     0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0.4818     
+0.5974     0.5974     0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0.1622     0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0.5781     0          0          
+0          0          0          0          0          0          0          0.5781     0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0.7167     0.7167     0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0.135      
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0.413      0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0.413      0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0.5121     0.5121     0.5121     0.5121     0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0.5781     0          
+0          0          0          0          0.1622     0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0.2371     0          0          0          0.497      0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0.5781     0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0.1352     0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0.4142     0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0.3663     0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0.5974     0.4142     
+0.5974     0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0.1574     0.2135     0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0.3663     
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0.4818     0.5974     0.4818     0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          0          0          0          0          0          0          0          0          
+0          0          
+
+COSINE SIMILARITY
+------------------------------------------------------------------------------------------------------------------------------------------------------
+0.0081                         0.0084                         0.0969                         0.0                            0.0                            0.0265                         0.0                            0.0                            0.0082                         0.0181                         
+0.0093                         0.0124                         0.0                            0.0                            0.0                            0.0                            0.0                            0.0                            0.0                            0.1371                         
+0.0                            0.7836                         0.0163                         0.0175                         0.0                            0.01                           0.0139                         0.162                          0.0114                         0.0                            
+0.0                            0.0097                         0.0                            0.0                            0.0                            0.0079                         0.0082                         0.0586                         0.0669                         0.0282                         
+0.0368                         0.0268                         0.0266                         0.0281                         0.0083                         0.0183                         0.0094                         0.0125                         0.0                            0.0                            
+0.0948                         0.0                            0.0456                         0.0                            0.0598                         0.0                            0.0462                         0.0127                         1.0                            0.0366                         
+0.0                            0.0102                         0.044                          0.0158                         0.0116                         0.0                            0.0                            0.1555                         0.0                            0.0                            
+0.0                            0.0079                         0.0079                         0.0082                         0.0                            0.0                            0.0                            0.1901                         0.1524                         0.0                            
+0.008                          0.0176                         0.009                          0.0121                         0.0                            0.0                            0.0                            0.0                            0.0                            0.0                            
+0.0                            0.0                            0.0                            0.0123                         0.0159                         0.017                          0.0                            0.6401                         0.0135                         0.0152                         
+0.0111                         0.0                            0.0                            0.0095                         0.0                            0.0                            0.0                            0.0077                         0.0254                         0.0087                         
+0.0108                         0.0                            0.0                            0.1297                         0.0                            0.0271                         0.0086                         0.0                            0.0194                         0.121                          
+0.0                            0.0                            0.0                            0.0074                         0.008                          0.013                          0.0209                         0.0113                         0.0112                         0.0                            
+0.0                            0.0                            0.0                            0.8102                         0.0                            0.0                            0.0                            0.0                            0.0103                         0.0                            
+0.0                            0.0                            0.0                            0.0                            0.1419                         0.0107                         0.2087                         0.0358                         0.0466                         0.034                          
+0.0337                         0.0355                         0.0105                         0.0231                         0.0119                         0.0158                         0.0                            0.0                            0.0318                         0.0                            
+0.0                            0.0                            0.0                            0.0                            0.0585                         0.0161                         0.0653                         0.0463                         0.0                            0.0129                         
+0.6737                         0.02                           0.3377                         0.0                            0.0                            0.039                          0.0                            0.0                            0.0                            0.0101                         
+0.0078                         0.0081                         0.0939                         0.0                            0.0                            0.1201                         0.0876                         0.0                            0.008                          0.0175                         
+0.009                          0.012                          0.0                            0.0                            0.0                            0.0                            0.0                            0.0                            0.0                            0.0                            
+0.0                            0.1269                         0.0158                         0.0169                         0.0                            0.0097                         0.0134                         1.0                            0.115                          0.0                            
+0.0                            0.1668                         0.0                            0.0                            0.0                            0.0076                         0.0559                         0.0119                         0.0147                         0.0                            
+0.0                            0.0                            0.0                            0.0711                         0.0333                         0.0                            0.0508                         0.0956                         0.036                          0.0                            
+0.0                            0.0101                         0.0309                         0.0504                         0.1581                         0.0437                         0.0153                         0.0                            0.0                            0.0                            
+0.0                            0.0143                         0.0                            0.0                            0.0                            0.4757                         0.584                          0.1298                         0.0                            0.0                            
+0.0822                         0.0                            
+
+INFORMATION RETRIEVED FROM TEXT THROUGH COSINE SIMILARITY
+------------------------------------------------------------------------------------------------------------------------------------------------------
+next step isol candid gene  matches the document number  21
+cell contain gene open dna purifi  matches the document number  22
+chosen gene donor genom well  matches the document number  25
+well studi mai alreadi access genet librari  matches the document number  25
+dna known copi gene avail  matches the document number  26
+isol gene ligat plasmid inser bacterium  matches the document number  27
+genet engin variou applic medicin research  matches the document number  30
+

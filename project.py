@@ -1,6 +1,16 @@
 from stemming import Stemming
 import math
 
+def calCosine(val1, val2):
+    num = det1 = det2 = 0
+    for i in range(len(val1)):
+        num += val1[i] * val2[i]
+        det1 += val1[i] * val1[i]
+        det2 += val2[i] * val2[i]
+    det1 = math.sqrt(det1)
+    det2 = math.sqrt(det2)
+    return num / (det1 * det2)
+
 def printTupleValues(dict):
     k = 0
     for item in dict:
@@ -43,13 +53,22 @@ def printListOfListValues(lst):
                 k = 0
                 print()
 
+def uniqueStemmed(tokenizedList):
+    stemmed = []
+    stemmer = Stemming()
+    for l in tokenizedList:
+        for term in l:
+            if stemmer.stem(term) not in stemmed:
+                stemmed.append(stemmer.stem(term))
+    return stemmed
+
 def stemmed(tokenizedList):
     stemmed = []
     stemmer = Stemming()
     for l in tokenizedList:
         stemmedList = []
         for term in l:
-            stemmedList.append(stemmer.stem(term))
+                stemmedList.append(stemmer.stem(term))
         stemmed.append(stemmedList)
     return stemmed
 
@@ -111,14 +130,7 @@ print("-"*80)
 stemList = []
 stemList = stemmed(stopwordsList)
 printListOfListValues(stemList)
-queries = [["next step isol candid gene"],
-           ["cell contain gene open DNA purifi"],
-           ["chosen gene donor organism genom well"],
-           ["well studi mai alreadi access genet librari"],
-           ["DNA seqenc known copi gene avail"],
-           ["Once isol gene ligat plasmid inser bacterium"],
-           ["genet engin variou applic medicin research"]]
-documents = [26, 27, 30, 30, 32, 35]
+
 
 D = {}
 for i in range(len(stemList)):
@@ -128,9 +140,10 @@ print("-"*80)
 for k, v in D.items():
         print(k, ":", v)
 N = len(D)
+stemList = uniqueStemmed(stopwordsList)
 df = {}
-for i in range(len(stemList)):
-    for term in stemList[i]:
+for i in range(len(D)):
+    for term in D[i]:
         try:
             df[term].add(i)
         except:
@@ -141,10 +154,10 @@ print("\n\nDOCUMENT FREQUENCY")
 print("-"*80)
 printDictValues(df)
 tf = []
-for i in range(len(stemList)):
+for i in range(len(D)):
     temp = {}
-    for term in stemList[i]:
-        temp[term] = round(stemList[i].count(term)/len(stemList[i]), 4)
+    for term in D[i]:
+        temp[term] = round(D[i].count(term)/len(D[i]), 4)
     tf.append(temp)
 print("\n\nTERM FREQUENCY")
 print("-"*80)
@@ -159,7 +172,70 @@ tf_idf = {}
 for i in range(len(tf)):
     for k,v in tf[i].items():
         tf_idf[i, k] = round(v * idf[k], 4)
-print("-"*80)
 print("\n\nTF_IDF")
 print("-"*80)
 printTupleValues(tf_idf)
+
+matrix = []
+for i in range(len(D)):
+    temp = []
+    for j in range(len(stemList)):
+        temp.append(0)
+    matrix.append(temp)
+for i in range(len(matrix)):
+    for j in range(len(stemList)):
+        if (i, stemList[j]) in tf_idf:
+            matrix[i][j] = tf_idf[(i, stemList[j])]
+
+print("\n\nMATRIX")
+print(matrix)
+
+
+queries = ["next step isol candid gene",
+           "cell contain gene open dna purifi",
+           "chosen gene donor genom well",
+           "well studi mai alreadi access genet librari",
+           "dna known copi gene avail",
+           "isol gene ligat plasmid inser bacterium",
+           "genet engin variou applic medicin research"]
+originalQueries = queries
+queries = [i.split(' ') for i in queries]
+print("\n\nTOKENIZED QUERIES")
+print(queries)
+queryMatrix = []
+for i in range(len(queries)):
+    temp = []
+    for j in range(len(stemList)):
+        temp.append(0)
+    queryMatrix.append(temp)
+tfq = []
+for i in range(len(queries)):
+    temp = {}
+    for term in queries[i]:
+        temp[term] = round(queries[i].count(term)/len(queries[i]), 4)
+    tfq.append(temp)
+print(tfq)
+tf_idfq = {}
+for i in range(len(tfq)):
+    for k,v in tfq[i].items():
+        tf_idfq[i, k] = round(v * idf[k], 4)
+print("TFIDFQ\n")
+print(tf_idfq)
+for i in range(len(queryMatrix)):
+    for j in range(len(stemList)):
+        if (i, stemList[j]) in tf_idfq:
+            queryMatrix[i][j] = tf_idfq[(i, stemList[j])]
+
+print("\n\nQUERY MATRIX")
+print(queryMatrix)
+cosineSimilarity = []
+for i in range(len(queryMatrix)):
+    temp = []
+    for j in range(len(matrix)):
+        temp.append(calCosine(queryMatrix[i], matrix[j]))
+    cosineSimilarity.append(temp)
+print("\n\nCosine similarity")
+print(cosineSimilarity)
+print("\n\nINFORMATION RETRIEVED FROM TEXT")
+for i in range(len(queries)):
+    print(originalQueries[i], " matches the document number ", cosineSimilarity[i].index(max(cosineSimilarity[i])))

@@ -18,7 +18,7 @@ def printMatrix(matrix, n, m):
             s = str(i)
             print(s.ljust(n),end =" ")
             k+=1
-            if(k==10):
+            if(k==3):
                 k = 0
                 print()
 
@@ -28,7 +28,7 @@ def printTupleValues(dict):
         s = "(" + str(item[0]) + "," + item[1] + ") : " + str(round(dict[item], 4))
         print(s.ljust(30), end = " ")
         k += 1
-        if(k == 5):
+        if(k == 3):
             k = 0
             print()
 
@@ -40,7 +40,7 @@ def printTfDictValues(lst):
             s = item+" : "+str(dict[item])
             print(s.ljust(35),end =" ")
             k+=1
-            if(k==5):
+            if(k==3):
                 k = 0
                 print()
 
@@ -60,7 +60,7 @@ def printListOfListValues(lst):
         for i in l:
             print(i.ljust(25),end=" ")
             k+=1
-            if(k==5):
+            if(k==3):
                 k = 0
                 print()
 
@@ -124,21 +124,21 @@ for line in lines:
     original_words.append(line.split(' '))
 
 print("\nTOKENIZATION")
-print("-"*150)
+print("-"*80)
 tokenizedList = []
 for line in original_words:
     tokenizedList.append(tokenize(line))
 printListOfListValues(tokenizedList)
 
 print("\n\nSTOP WORD REMOVAL")
-print("-"*150)
+print("-"*80)
 stopwordsList = []
 for l in tokenizedList:
     stopwordsList.append(stopwords(l))
 printListOfListValues(stopwordsList)
 
 print("\n\nSTEMMING")
-print("-"*150)
+print("-"*80)
 stemList = []
 stemList = stemmed(stopwordsList)
 printListOfListValues(stemList)
@@ -147,7 +147,7 @@ D = {}
 for i in range(len(stemList)):
     D[i] = stemList[i]
 print("\n\nDOCUMENTS")
-print("-"*150)
+print("-"*80)
 for k, v in D.items():
         print(k, ":", v)
 
@@ -163,7 +163,7 @@ for i in range(len(D)):
 for k,v in df.items():
     df[k] = len(v)
 print("\n\nDOCUMENT FREQUENCY")
-print("-"*150)
+print("-"*80)
 printDictValues(df)
 
 tf = []
@@ -173,14 +173,14 @@ for i in range(len(D)):
         temp[term] = round(D[i].count(term)/len(D[i]), 4)
     tf.append(temp)
 print("\n\nTERM DOCUMENT FREQUENCY")
-print("-"*150)
+print("-"*80)
 printTfDictValues(tf)
 
 idf = {}
 for k,v in df.items():
     idf[k] = math.log(N/v)
 print("\n\nINVERSE DOCUMENT FREQUENCY")
-print("-"*150)
+print("-"*80)
 printDictValues(idf)
 
 tf_idf = {}
@@ -188,7 +188,7 @@ for i in range(len(tf)):
     for k,v in tf[i].items():
         tf_idf[i, k] = round(v * idf[k], 4)
 print("\n\nDOCUMENT TERM SCORE TF x IDF")
-print("-"*150)
+print("-"*80)
 printTupleValues(tf_idf)
 
 queries = ["next step isol candid gene",
@@ -226,7 +226,7 @@ for i in range(len(queries)):
         temp[term] = round(queries[i].count(term)/len(queries[i]), 4)
     tfq.append(temp)
 print("\n\nTERM QUERY FREQUENCY")
-print("-"*150)
+print("-"*80)
 printTfDictValues(tfq)
 
 tf_idfq = {}
@@ -234,7 +234,7 @@ for i in range(len(tfq)):
     for k,v in tfq[i].items():
         tf_idfq[i, k] = round(v * idf[k], 4)
 print("QUERY TERM SCORE TF x IDFq")
-print("-"*150)
+print("-"*80)
 printTupleValues(tf_idf)
 
 
@@ -243,8 +243,8 @@ for i in range(len(queryMatrix)):
         if (i, stemList[j]) in tf_idfq:
             queryMatrix[i][j] = tf_idfq[(i, stemList[j])]
 print("\n\nQUERY MATRIX")
-print("-"*150)
-printMatrix(queryMatrix, 10, 10)
+print("-"*80)
+printMatrix(queryMatrix, 10, 3)
 
 cosineSimilarity = []
 for i in range(len(queryMatrix)):
@@ -253,11 +253,11 @@ for i in range(len(queryMatrix)):
         temp.append(round(calCosine(queryMatrix[i], matrix[j]), 4))
     cosineSimilarity.append(temp)
 print("\n\nCOSINE SIMILARITY")
-print("-"*150)
-printMatrix(cosineSimilarity, 30, 8)
+print("-"*80)
+printMatrix(cosineSimilarity, 30, 3)
 
 print("\n\nINFORMATION RETRIEVED FROM TEXT THROUGH COSINE SIMILARITY")
-print("-"*150)
+print("-"*80)
 for i in range(len(queries)):
     print(originalQueries[i], " matches the document number ", cosineSimilarity[i].index(max(cosineSimilarity[i])))
 print()
